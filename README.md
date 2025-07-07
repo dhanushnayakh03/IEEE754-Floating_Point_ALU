@@ -1,5 +1,5 @@
-# IEEE754-Floating_Point_ALU
-# Floating Point Arithmetic Modules
+# IEEE754- Floating Point ALU
+## Floating Point Arithmetic Modules
 
 This repository contains Verilog implementations of IEEE 754 single-precision (32-bit) floating-point arithmetic operations. The modules support standard floating-point operations including addition, subtraction, multiplication, division, and comparison.
 
